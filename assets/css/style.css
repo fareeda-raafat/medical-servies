@@ -1,0 +1,113 @@
+.addAdmin
+{
+   border: 1px solid rgb(158, 155, 155);
+   border-radius: 6px;
+   padding: 10px;
+   width: 50%;
+   margin: auto;
+   font-family: 'Rubik', sans-serif;
+   font-family: 'Work Sans', sans-serif;
+   font-size: 15px;
+
+}
+
+.addAdmin h2
+{
+ text-align: center;
+ background-color: cadetblue;
+ border-radius: 6px;
+ margin: auto;
+ padding: 20px;
+ color: white;
+ margin-bottom: 20px;
+}
+
+.addAdmin .btn-primary
+{
+    background-color:cadetblue ;
+    border: none;
+    width: 90px;
+    padding: 12px;
+    margin: 9px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    
+}
+
+.addAdmin .form-control , .addAdmin label  , .addAdmin .text-muted
+{
+    margin: 9px;
+}
+
+.addAdmin input
+{
+    padding: 12px;
+    margin-right: 20px;
+   
+}
+
+nav
+{
+    padding: 40px 10px ;
+}
+
+.nav-item
+{
+    padding: 6px;
+    font-size: 18px;
+    color: white;
+}
+
+.navbar
+{
+    background: cadetblue;
+    color: white;
+}
+
+.nav-link
+{
+    color: white;
+}
+
+nav a
+{
+    color: white;
+}
+
+h3
+{
+   text-align: center;
+   margin: auto;
+
+}
+.error
+{
+    border: 1px solid black;
+    
+}
+
+.cont-main
+{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cont-login 
+{
+    background: cornflowerblue;
+    height: 100vh;
+}
+.cont-login form 
+{
+    width: 70%;
+}
+
+.cont-main form 
+{
+    border: 2px solid #222;
+    padding: 25px;
+    background: rgba(0, 126, 255, 0.5);
+    border-radius: 15px;
+}
